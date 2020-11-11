@@ -1,5 +1,9 @@
 # Nuxt-child-transition-test
 
+Testing nuxt child transitions
+
+You can preview the site here: http://metervara.github.io/nuxt-child-transition/
+
 ## Build Setup
 
 ```bash

@@ -36,6 +36,9 @@ export default {
     '@nuxt/content'
   ],
 
+  router: {
+    base: '/nuxt-child-transition/'
+  },
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
   }
