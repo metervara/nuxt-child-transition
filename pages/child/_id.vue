@@ -1,6 +1,6 @@
 <template>
   <div class="child">
-    <h1>CHILD: {{$route.path}}</h1>
+    <h2>Child sub page: {{$route.path}}</h2>
     <nuxt-content :document="page" />
   </div>
 </template>

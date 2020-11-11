@@ -3,22 +3,22 @@
     <ul>
       <li>
         <nuxt-link to="/">
-          Home
+          / (home)
         </nuxt-link>
       </li>
       <li>
         <nuxt-link to="/child">
-          Child root
+          /child
         </nuxt-link>
       </li>
       <li>
         <nuxt-link to="/child/some">
-          Some child
+          /child/some
         </nuxt-link>
       </li>
       <li>
         <nuxt-link to="/child/other">
-          Other child
+          /child/other
         </nuxt-link>
       </li>
     </ul>
