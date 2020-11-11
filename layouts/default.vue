@@ -81,4 +81,8 @@ html {
   color: #fff;
   background-color: #35495e;
 }
+
+.container {
+  padding: 20px;
+}
 </style>
