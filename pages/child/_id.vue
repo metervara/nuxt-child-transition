@@ -7,9 +7,9 @@
 
 <script>
 export default {
-  transition: {
-    name: 'custom',
-  },
+  // transition: {
+  //   name: 'custom',
+  // },
   key(route) {
     return route.fullPath
   },
